@@ -1,1 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anjali Roy - Creative Designer</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+
+    <header class="header">
+        <nav class="navbar">
+            <div class="logo">Anjali Roy</div>
+            <ul class="nav-links">
+                <li><a href="#profile">Profile</a></li>
+                <li><a href="#education">Education</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+
+        <div class="hero">
+            <h1>Anjali Roy</h1>
+            <p>Creative Designer & Multitalented Artist</p>
+            <div class="hero-buttons">
+                <a href="#contact" class="btn">Contact Me</a>
+                <a href="#" class="btn btn-outline">View My Art</a>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+
+        <section id="profile" class="section">
+            <h2 class="section-title">Profile</h2>
+            <div class="profile-content">
+                <img src="assets/images/profile.jpg" alt="Anjali Roy" class="profile-img">
+                <div class="profile-text">
+                    <p>I'm a student of design and BBA, with experience in character design for games and webtoons. Creativity also guides me into music, dance, sports, cooking, and art.</p>
+                    <div class="interests">
+                        <div class="interest-item"><i class="fas fa-music"></i><span>Guitar</span></div>
+                        <div class="interest-item"><i class="fas fa-table-tennis"></i><span>Badminton</span></div>
+                        <div class="interest-item"><i class="fas fa-person-dancing"></i><span>Dancing</span></div>
+                        <div class="interest-item"><i class="fas fa-utensils"></i><span>Cooking</span></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="education" class="section">
+            <h2 class="section-title">Education</h2>
+            <div class="timeline">
+                <div class="timeline-item">
+                    <div class="timeline-date">Till 2022</div>
+                    <div class="timeline-content">
+                        <h3>Secondary School</h3>
+                        <p class="institution">St. Francis Xavier School, Kolkata</p>
+                        <p>10th Board (Commerce Stream)</p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-date">
 
